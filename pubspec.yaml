@@ -1,6 +1,6 @@
 name: searchable_dropdown
 description: Simple and robust Searchable Dropdown with item search feature, making it possible to use an offline item list or filtering URL for easy customization.
-version: 5.0.7
+version: 5.0.8
 
 environment:
   sdk: ">=2.17.0 <4.0.0"
