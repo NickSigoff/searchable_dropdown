@@ -1,4 +1,4 @@
-name: dropdown_search
+name: searchable_dropdown
 description: Simple and robust Searchable Dropdown with item search feature, making it possible to use an offline item list or filtering URL for easy customization.
 version: 5.0.7
 homepage:

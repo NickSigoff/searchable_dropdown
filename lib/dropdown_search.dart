@@ -2,10 +2,9 @@ library dropdown_search;
 
 import 'dart:async';
 
-import 'package:dropdown_search/src/properties/clear_button_props.dart';
-import 'package:dropdown_search/src/properties/dropdown_button_props.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
+import 'package:searchable_dropdown/dropdown_search.dart';
 
 import 'src/properties/dropdown_decorator_props.dart';
 import 'src/properties/popup_props.dart';

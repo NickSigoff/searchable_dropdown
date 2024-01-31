@@ -1,5 +1,6 @@
-import 'package:dropdown_search/dropdown_search.dart';
 import 'package:flutter/material.dart';
+
+import '../../dropdown_search.dart';
 
 class ClearButtonProps extends IconButtonProps {
   const ClearButtonProps({
